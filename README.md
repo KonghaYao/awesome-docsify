@@ -176,6 +176,8 @@ A curated list of awesome things related to <a href="//docsify.js.org">docsify</
 - [docsify-plugin-title](https://github.com/Sujaykumarh/docsify-plugin-title) - Customize docisify page title. [@sujaykumarh](https://github.com/sujaykumarh)
 - [docsify-drawio](https://github.com/KonghaYao/docsify-drawio) - This is a docsify plugin that can convert drawio xml Data to a picture in your docs. [@KonghaYao](https://github.com/KonghaYao)
 - [docsify-plugin-footer](https://github.com/Sujaykumarh/docsify-plugin-footer) - Simplified docisify page footer. @sujaykumarh.
+- [docsify-prettier](https://github.com/KonghaYao/docsify-prettier) - 使用 Prettier 来格式化代码。Use Prettier to make your code prettier . [@KonghaYao](https://github.com/KonghaYao)
+- [docsify-cc-license](https://www.npmjs.com/package/docsify-cc-license) - 在网页中添加知识共享协议的标识的插件。A plug-in that adds a Creative Commons identity to a web page. [@KonghaYao](https://github.com/KonghaYao)
 
 ## Themes
 
